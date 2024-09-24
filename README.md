@@ -17,10 +17,9 @@ Prerequisites
 
 Running the Server
 
-    Clone this repository:
+    Clone this repository: git clone https://github.com/c0rn3d/Golang_Simple_Chat_App.git
 
 
-git clone https://github.com/c0rn3d/Golang_Simple_Chat_App.git
 
 Navigate to the directory:
 

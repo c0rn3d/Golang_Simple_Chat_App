@@ -19,14 +19,13 @@ Running the Server
 
     Clone this repository:
 
-    bash
 
-git clone <repository-url>
+git clone https://github.com/c0rn3d/Golang_Simple_Chat_App.git
 
 Navigate to the directory:
 
 
-cd <directory-name>
+cd Golang_Simple_Chat_App
 
 Run the server using:
 
